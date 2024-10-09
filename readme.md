@@ -1,4 +1,5 @@
-Some mod
+Some mod by me
+
 # VS CODE SETUP
 
 ## EXTENSIONS
